@@ -1,4 +1,6 @@
 # Data Science Coding Challenge
+If i have time i would do the follwoing:
+
 1. Feature Engineering Improvements
 Weather Data Integration: Ski ticket sales are likely impacted by weather conditions. You could integrate external weather data (temperature, snow depth, etc.) to capture the impact of weather on ticket sales.
 Holiday and Event Flags: Adding features that flag public holidays, ski festivals, or special events could improve the model. These events often lead to spikes in ticket sales.
